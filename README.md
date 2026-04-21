@@ -1,3 +1,7 @@
+## Repositório utilizado para o Meetup #06 do Cloud Native Araraquara-SP
+
+Assista: https://www.youtube.com/watch?v=nrflAZreou0
+
 ## 🚀 Como subir sua infraestrutura e rodar o jogo
 
 Siga os passos abaixo para criar sua infraestrutura na DigitalOcean e publicar seu próprio jogo:
